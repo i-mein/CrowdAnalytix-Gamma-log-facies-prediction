@@ -4,7 +4,7 @@
 ## Develop an algorithm to predict Log Facies type from given Gamma-Ray values
 
 
-![alt text](https://github.com/i-mein/CrowdAnalytix-Gamma-log-facies-prediction/image.png)
+![](/image.jpg)
 
 
 ### Problem Description
