@@ -4,7 +4,10 @@
 ## Develop an algorithm to predict Log Facies type from given Gamma-Ray values
 
 
-![](/image.jpg)
+![](/image)
+
+
+
 
 
 ### Problem Description
