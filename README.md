@@ -65,6 +65,7 @@ The Society for Sedimentary Geology (SEPM) has a more detailed description of th
 [link]:http://www.sepmstrata.org/page.aspx?pageid=168
 
 
+### LB Position: 35th
 
 ### Repo still under development! (Final code will be publised after the competition end)
 
