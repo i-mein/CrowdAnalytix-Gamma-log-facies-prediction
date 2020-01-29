@@ -67,5 +67,3 @@ The Society for Sedimentary Geology (SEPM) has a more detailed description of th
 
 ### LB Position: 35th
 
-### Repo still under development! (Final code will be publised after the competition end)
-
