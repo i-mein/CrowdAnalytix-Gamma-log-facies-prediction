@@ -4,6 +4,10 @@
 ## Develop an algorithm to predict Log Facies type from given Gamma-Ray values
 
 
+### LB Position: 35th  (top 5%)
+
+
+
 ![](/image)
 
 
@@ -65,5 +69,4 @@ The Society for Sedimentary Geology (SEPM) has a more detailed description of th
 [link]:http://www.sepmstrata.org/page.aspx?pageid=168
 
 
-### LB Position: 35th
 
